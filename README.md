@@ -9,7 +9,11 @@ A set of data visualization resources to accompany the Data Visualization in R a
 
 # Tutorials
 - [Visualizing COVID-19](https://www.datacamp.com/projects/870) - Visulize the rise of COVID-19 cases globally with ggplot2.
-- [Data Carpentry - Data visulization with ggplot2](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html) - Learn how to visualize ecology data using ggplot2.
+- [Data Carpentry - Data visulization with ggplot2](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html)
+
+# Packages
+- [ggprism](https://github.com/csdaw/ggprism) - The ggprism package provides various themes, palettes, and other useful functions to customise ggplots and give them the ‘GraphPad Prism’ look.
+
 
 
 
