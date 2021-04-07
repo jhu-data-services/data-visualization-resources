@@ -1,9 +1,10 @@
 ![Data Vis Logo](https://raw.githubusercontent.com/jhu-data-services/data-visualization-resources/main/images/datavislogo.png)
 
-# Data Visulization Resource
+A set of data visualization resources to accompany the Data Visualization in R and Interactive Data Visualization in R with Shiny workshops at Johns Hopkins University.
 
-## Data Visulization in R
+[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-### Tutorials
+# Tutorials
+
 
 
