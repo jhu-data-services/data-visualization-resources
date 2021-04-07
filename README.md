@@ -13,7 +13,9 @@ A set of data visualization resources to accompany the Data Visualization in R a
 - [Data Carpentry - Data visulization with ggplot2](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html)
 
 # Packages
+- [ggplot2](https://ggplot2.tidyverse.org/) - A powerful data visulization library in R, based on the Grammar of Graphics.
 - [ggprism](https://github.com/csdaw/ggprism) - The ggprism package provides various themes, palettes, and other useful functions to customise ggplots and give them the ‘GraphPad Prism’ look.
+
 
 
 
