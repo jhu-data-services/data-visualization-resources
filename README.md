@@ -6,6 +6,7 @@ A set of data visualization resources to accompany the Data Visualization in R a
 
 # Open Access Textbooks
 - [ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/) - Hadley Wickham's (ggplot2 creator) book on ggplot2. 
+- [Data Visualization - A practical introduction](https://socviz.co/) - The online version of Kieran Healy's book on data visualization in R.
 
 # Tutorials
 - [Visualizing COVID-19](https://www.datacamp.com/projects/870) - Visulize the rise of COVID-19 cases globally with ggplot2.
