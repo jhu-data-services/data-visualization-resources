@@ -11,6 +11,7 @@ A set of data visualization resources to accompany the Data Visualization in R a
 # Tutorials
 - [Visualizing COVID-19](https://www.datacamp.com/projects/870) - Visulize the rise of COVID-19 cases globally with ggplot2.
 - [Data Carpentry - Data visulization with ggplot2](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html)
+- [The Complete ggplot2 Tutorial](http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html) - An advanced ggplot2 tutorial that covers modifying components, aesthetics, legends, and plot style. Also included is a library of 50 ggplot2 visualizations, with code, for 8 categories: Correlation, Deviation, Ranking, Distribution, Composition, Change, Groups, and Spatial Data.
 
 # Packages
 - [ggplot2](https://ggplot2.tidyverse.org/) - A powerful data visulization library in R, based on the Grammar of Graphics.
