@@ -6,5 +6,8 @@ A set of data visualization resources to accompany the Data Visualization in R a
 
 # Tutorials
 
+[ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/)
+
+
 
 
