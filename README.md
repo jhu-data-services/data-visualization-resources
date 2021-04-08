@@ -37,6 +37,7 @@ A set of data visualization resources to accompany the Data Visualization in R a
 ## Interactive Data Visualization
 - [plotly](https://plotly.com/r/3d-charts/) - An interactive data visualization library in R for producing interactive, publication-quality graphs.
 - [Shiny](https://shiny.rstudio.com/) - Shiny is an R package that makes it easy to build interactive web apps straight from R. 
+- [leaflet](https://rstudio.github.io/leaflet/) - Integrate and control Leaflet interactive JavaScript maps in R.
 
 # Opinions 
 
