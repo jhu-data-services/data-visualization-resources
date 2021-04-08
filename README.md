@@ -35,6 +35,8 @@ A set of data visualization resources to accompany the Data Visualization in R a
 - [plotly](https://plotly.com/r/3d-charts/) - An interactive data visualization library in R that can be used to visualize 3D scatter plots, line plots, surface plots, mesh plots, streamtube plots, isosurface plots, and tri-surf plots.
 
 ## Interactive Data Visualization
+- [plotly](https://plotly.com/r/3d-charts/) - An interactive data visualization library in R for producing interactive, publication-quality graphs.
+- [Shiny](https://shiny.rstudio.com/) - Shiny is an R package that makes it easy to build interactive web apps straight from R. 
 
 # Opinions
 
