@@ -4,12 +4,21 @@ A set of data visualization resources to accompany the Data Visualization in R a
 
 [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
+# Table of Contents
+
+1. [Open Access Textbooks](#r-books)
+2. [Tutorials](#r-tutorials)
+4. [Packages](#r-packages)
+5. [Opinions](#r-opinion)
+
+<a name="r-books"/>
 # Open Access Textbooks
 - [ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/) - Hadley Wickham's (ggplot2 creator) book on ggplot2. 
 - [Data Visualization - A practical introduction](https://socviz.co/) - The online version of Kieran Healy's book on data visualization in R.
 - [Data Visualization with R](https://rkabacoff.github.io/datavis/) - Data Visualization with R by Rob Kabacoff. Focused mostly on ggplot2, pbut also covers interactive data visualization and spatial data visualization in R.
 - [R Graphics Cookbook](https://r-graphics.org/) - A practical guide that provides more than 150 recipes to help you generate high-quality graphs quickly, without having to comb through all the details of R’s graphing systems. 
 
+<a name="r-tutorials"/>
 # Tutorials
 - [Creating Publication Quality Base R Graphics](https://www.jumpingrivers.com/blog/styling-base-r-graphics/) - A tutorial on creating publication quality graphics using just the base R plot function.
 - [Visualizing COVID-19](https://www.datacamp.com/projects/870) - Visualize the rise of COVID-19 cases globally with ggplot2.
@@ -19,6 +28,7 @@ A set of data visualization resources to accompany the Data Visualization in R a
 # Examples
 - [R Graph Gallery](https://www.r-graph-gallery.com/index.html) - A gallery of hundreds of charts in R, with the corresponding code to reproduce them. A great place to see the vast diversity of plots that can be generated in R using a number of libraries such as ggplot2.
 
+<a name="r-packages"/>
 # Packages
 
 ## ggplot2
@@ -39,6 +49,7 @@ A set of data visualization resources to accompany the Data Visualization in R a
 - [Shiny](https://shiny.rstudio.com/) - Shiny is an R package that makes it easy to build interactive web apps straight from R. 
 - [leaflet](https://rstudio.github.io/leaflet/) - Integrate and control Leaflet interactive JavaScript maps in R.
 
+<a name="r-opinion"/>
 # Opinions 
 
 Choosing between ggplot2 and base R graphics is not straightforward. Your choice of graphics library will depend heavily on your application and need. These articles are not meant to persuade you in choosing a particular graphics library, but instead help identify some common pitfalls with choosing a library without considering your application and audience. 
