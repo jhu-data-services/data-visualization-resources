@@ -25,6 +25,7 @@ A set of data visualization resources to accompany the Data Visualization in R a
 - [ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/) - Hadley Wickham's (ggplot2 creator) book on ggplot2. 
 
 ## Shiny
+- [Mastering Shiny: Build Interactive Apps, Reports & Dashboards Powered by R](https://mastering-shiny.org/) - Hadlley Wickham's open-access textbook on Shiny. This book covers both introductory concepts in Shiny all the way to advanced concepts that allow you to build maintainable and performant apps. 
 
 <a name="r-tutorials"/>
 
@@ -40,6 +41,7 @@ A set of data visualization resources to accompany the Data Visualization in R a
 - [Tufte in R](http://motioninsocial.com/tufte/) - Producing plots in the style of Edward Tufte in R. 
 
 ## Shiny
+- [RStudio Shiny Tutorial](https://shiny.rstudio.com/tutorial/) - A three-part video tutorial, with accompanying slides and code, by the creators of Shiny. This is an excellent starting place for learning and improving your understanding of Shiny.
 
 <a name="r-examples"/>
 
