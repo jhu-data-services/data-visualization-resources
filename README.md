@@ -8,7 +8,7 @@ A set of data visualization resources to accompany the Data Visualization in R a
 
 1. [Open Access Textbooks](#r-books)
 2. [Tutorials](#r-tutorials)
-3. [Examples](#r-examples)
+3. [Examples and Resources](#r-examples)
 4. [Packages](#r-packages)
 5. [Opinions](#r-opinion)
 
@@ -26,7 +26,6 @@ A set of data visualization resources to accompany the Data Visualization in R a
 
 ## Shiny
 - [Mastering Shiny: Build Interactive Apps, Reports & Dashboards Powered by R](https://mastering-shiny.org/) - Hadlley Wickham's open-access textbook on Shiny. This book covers both introductory concepts in Shiny all the way to advanced concepts that allow you to build maintainable and performant apps. 
-
 <a name="r-tutorials"/>
 
 # Tutorials
@@ -45,8 +44,16 @@ A set of data visualization resources to accompany the Data Visualization in R a
 
 <a name="r-examples"/>
 
-# Examples
+# Examples and Resources
+
+## General R Visualization
 - [R Graph Gallery](https://www.r-graph-gallery.com/index.html) - A gallery of hundreds of charts in R, with the corresponding code to reproduce them. A great place to see the vast diversity of plots that can be generated in R using a number of libraries such as ggplot2.
+
+## Shiny 
+
+- [Awesome-RShiny](https://github.com/grabear/awesome-rshiny) - A curated list of **awesome** Shiny resources, including resource guides, tutorials, galleries, app examples, and app sharing and hosting. 
+
+- [Awesome Shiny Extensions](https://github.com/nanxstats/awesome-shiny-extensions) - A curated list of R pacakges that offer extended UI or server components for Shiny, allowing for enhanced functionality and aesthetics over base Shiny apps.
 
 <a name="r-packages"/>
 
