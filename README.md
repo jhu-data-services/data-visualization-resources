@@ -15,10 +15,16 @@ A set of data visualization resources to accompany the Data Visualization in R a
 <a name="r-books"/>
 
 # Open Access Textbooks
-- [ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/) - Hadley Wickham's (ggplot2 creator) book on ggplot2. 
+
+## General Data Visualization
 - [Data Visualization - A practical introduction](https://socviz.co/) - The online version of Kieran Healy's book on data visualization in R.
-- [Data Visualization with R](https://rkabacoff.github.io/datavis/) - Data Visualization with R by Rob Kabacoff. Focused mostly on ggplot2, pbut also covers interactive data visualization and spatial data visualization in R.
+- [Data Visualization with R](https://rkabacoff.github.io/datavis/) - Data Visualization with R by Rob Kabacoff. Focused mostly on ggplot2, but also covers interactive data visualization and spatial data visualization in R.
 - [R Graphics Cookbook](https://r-graphics.org/) - A practical guide that provides more than 150 recipes to help you generate high-quality graphs quickly, without having to comb through all the details of R’s graphing systems. 
+
+## ggplot2
+- [ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/) - Hadley Wickham's (ggplot2 creator) book on ggplot2. 
+
+## Shiny
 
 <a name="r-tutorials"/>
 
@@ -27,7 +33,7 @@ A set of data visualization resources to accompany the Data Visualization in R a
 ## Base R
 - [Creating Publication Quality Base R Graphics](https://www.jumpingrivers.com/blog/styling-base-r-graphics/) - A tutorial on creating publication quality graphics using just the base R plot function.
 
-## Ggplot2 
+## ggplot2 
 - [Visualizing COVID-19](https://www.datacamp.com/projects/870) - Visualize the rise of COVID-19 cases globally with ggplot2.
 - [Data Carpentry - Data visulization with ggplot2](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html) - A tutorial in ggplot2 focused on ecology data.
 - [The Complete ggplot2 Tutorial](http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html) - An advanced ggplot2 tutorial that covers modifying components, aesthetics, legends, and plot style. Also included is a library of 50 ggplot2 visualizations, with code, for 8 categories: Correlation, Deviation, Ranking, Distribution, Composition, Change, Groups, and Spatial Data.
