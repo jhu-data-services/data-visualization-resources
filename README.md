@@ -55,6 +55,7 @@ A set of data visualization resources to accompany the Data Visualization in R a
 
 - [Awesome Shiny Extensions](https://github.com/nanxstats/awesome-shiny-extensions) - A curated list of R pacakges that offer extended UI or server components for Shiny, allowing for enhanced functionality and aesthetics over base Shiny apps.
 
+- [shinyapps.io](https://www.shinyapps.io/) - Share your Shiny applications online. Up to five apps can be shared publicly using a free account.
 <a name="r-packages"/>
 
 # Packages
