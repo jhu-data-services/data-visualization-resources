@@ -59,6 +59,8 @@ A set of data visualization resources to accompany the Data Visualization in R a
 
 - [shinyapps.io](https://www.shinyapps.io/) - Share your Shiny applications online. Up to five apps can be shared publicly using a free account.
 
+- [Shiny Galler](https://shiny.rstudio.com/gallery/) - R Studio's gallery of Shiny apps, both official demos designed to highlight specific Shiny features and a showcase of user submitted Shiny apps.
+
 <a name="r-packages"/>
 
 # Packages
