@@ -26,6 +26,8 @@ A set of data visualization resources to accompany the Data Visualization in R a
 
 ## Shiny
 - [Mastering Shiny: Build Interactive Apps, Reports & Dashboards Powered by R](https://mastering-shiny.org/) - Hadlley Wickham's open-access textbook on Shiny. This book covers both introductory concepts in Shiny all the way to advanced concepts that allow you to build maintainable and performant apps. 
+- [R powered web applications with Shiny](http://zevross.com/blog/2016/04/19/r-powered-web-applications-with-shiny-a-tutorial-and-cheat-sheet-with-40-example-apps/) - ZevRoss's Shiny tutorial, with 40 example apps. This tutorial provides an in-depth understanding of the Bootstrap grid system that Shiny utilizes to enable mobile-friendly apps. 
+
 <a name="r-tutorials"/>
 
 # Tutorials
