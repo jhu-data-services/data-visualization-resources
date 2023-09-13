@@ -89,7 +89,7 @@ A set of data visualization resources to accompany the Data Visualization in R a
 
 Choosing between ggplot2 and base R graphics is not straightforward. Your choice of graphics library will depend heavily on your application and need. These articles are not meant to persuade you in choosing a particular graphics library, but instead help identify some common pitfalls with choosing a library without considering your application and audience. 
 
-- [Why I don't use ggplot2](https://simplystatistics.org/2016/02/11/why-i-dont-use-ggplot2/) - JHU professor Jeff Leek's opinion on why he doesn't use ggplot2. 
+- [Why I don't use ggplot2](https://simplystatistics.org/posts/2016-02-11-why-i-dont-use-ggplot2/) - JHU professor Jeff Leek's opinion on why he doesn't use ggplot2. 
 - [Why I use ggplot2](http://varianceexplained.org/r/why-I-use-ggplot2/) - David Robinson's rebuttal to Jeff Leek, arguing in favor of ggplot2.
 - [Comparing ggplot2 and R Base Graphics](https://flowingdata.com/2016/03/22/comparing-ggplot2-and-r-base-graphics/) - An objective comparison of ggplot2 and R base graphics.
 
