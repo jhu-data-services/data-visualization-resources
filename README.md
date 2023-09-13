@@ -11,6 +11,7 @@ A set of data visualization resources to accompany the Data Visualization in R a
 3. [Examples and Resources](#r-examples)
 4. [Packages](#r-packages)
 5. [Opinions](#r-opinion)
+6. [Getting Practice](#r-practice)
 
 <a name="r-books"/>
 
@@ -93,4 +94,8 @@ Choosing between ggplot2 and base R graphics is not straightforward. Your choice
 - [Why I use ggplot2](http://varianceexplained.org/r/why-I-use-ggplot2/) - David Robinson's rebuttal to Jeff Leek, arguing in favor of ggplot2.
 - [Comparing ggplot2 and R Base Graphics](https://flowingdata.com/2016/03/22/comparing-ggplot2-and-r-base-graphics/) - An objective comparison of ggplot2 and R base graphics.
 
+<a name="r-practice"/>
 
+# Getting Practice
+
+- [Tidy Tuesday Visualization Challenge](https://github.com/rfordatascience/tidytuesday) - TidyTuesday is a weekly social data project, organized by the [R4DS Online Learning Community](https://www.rfordatasci.com/). Each week a new dataset is released, and your challenge is to to clean and visualize it!
